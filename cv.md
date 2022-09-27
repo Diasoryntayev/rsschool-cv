@@ -62,6 +62,7 @@ func main() {
 
 - Kazakh (native)
 - English (Pre-Intermediate (CEFR A2)
+- Russian
 
 
 ![logo](https://tashkent.rollingscopes.com/images/logo_rs_text.svg)
