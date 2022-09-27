@@ -1,8 +1,6 @@
 # Dias Oryntayev
----
 
 ## Contacts
----
 
 - **Location:** Kazakhstan, Astana
 - **Phone:** +7(771)184-58-90
@@ -11,14 +9,12 @@
 - **E-mail:** diasoryntayev@gmail.com
 
 ## About me
----
 
 I want to become a developer. 
 To do this, I study for 4 hours at the programming school "Alem" every day and on weekends for 8 hours. 
 For the last 5 months I have been studying the programming language "Go" and the basics of "HTML", "CSS".
 
 ## Skils
----
 
 - Go
 - HTML (basic)
@@ -27,7 +23,6 @@ For the last 5 months I have been studying the programming language "Go" and the
 - SQL
 
 # Code example
----
 
 ```Go
 func main() {
@@ -50,15 +45,13 @@ func main() {
 ```
 
 ## Work experience
----
 
 ## Courses
----
+
 - Alem school
 - [CS50 lectures](https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)
 
 ## Languages
----
 
 - Kazakh (native)
 - English (Pre-Intermediate (CEFR A2)
