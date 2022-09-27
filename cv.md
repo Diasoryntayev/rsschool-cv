@@ -30,7 +30,7 @@ func main() {
 		num1, err1 := strconv.Atoi(os.Args[1])
 		num2, err2 := strconv.Atoi(os.Args[2])
 		if err1 != nil && err2 != nil {
-            fmt.Println("error")
+                fmt.Println("error")
 			return
 		}
 		res := 0
